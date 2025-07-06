@@ -1,13 +1,13 @@
 {
   "name": "gwx12",
   "description": "Cloudstream Plugins von gwx12",
-  "plugins": [
+  "extensions": [
     {
       "name": "KisskhProvider",
       "description": "Kisskh Cloudstream Provider",
       "package": "KisskhProvider",
       "version": 1,
-      "url": "https://github.com/gwx12/cloudstream-plugins-test/blob/main/builds/KisskhProvider.cs3",
+      "url": "https://raw.githubusercontent.com/gwx12/cloudstream-plugins-test/refs/heads/main/repo.json",
       "icon": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=64"
     }
   ]
