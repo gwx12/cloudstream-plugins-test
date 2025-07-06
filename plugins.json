@@ -4,7 +4,7 @@
     "description": "Kisskh Cloudstream Provider",
     "package": "KisskhProvider",
     "version": 1,
-    "url": "https://github.com/gwx12/cloudstream-plugins-test/releases/download/v0.1/KisskhProvider.apk",
+    "url": "https://raw.githubusercontent.com/gwx12/cloudstream-plugins-test/refs/heads/main/plugins.json",
     "icon": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=64"
   }
 ] 
